@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim Mohamed Abd-Elhay,
-- 🚨 <u>This is not my official profile<u>, please visit this <a href="https://github.com/iabdelhay"><u>official profile</u></a> for this link <a href="https://github.com/iabdelhay">@iabdelhay</a>
+- 🚨 <u>This is not my official profile<u>, please visit the <a href="https://github.com/iabdelhay"><u>official profile</u></a> from this link <a href="https://github.com/iabdelhay">@iabdelhay</a>
 
 
 <!---
